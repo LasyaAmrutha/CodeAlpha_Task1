@@ -102,13 +102,13 @@ The sniffer will start capturing packets in real time.
 # 📸 Screenshots
 
 ## Interface Selection
-(Add Screenshot Here)
+![Interface](screenshots/interface.png)
 
 ## Packet Capture Output
-(Add Screenshot Here)
+![Packets](screenshots/packets1.png)
 
 ## Live Traffic Monitoring
-(Add Screenshot Here)
+![Traffic](screenshots/packets2.png)
 
 ---
 
